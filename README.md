@@ -26,3 +26,15 @@ After establishing a baseline model, I utilized `GridSearchCV` to systematically
 * `n_estimators`: 20
 * `min_samples_split`: 2
 * **Performance:** Achieved an $R^2$ score of ~0.82 with a significantly minimized RMSE, proving the model can reliably explain over 80% of the variance in retail demand.
+
+---
+
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE). 
+
+## 🌟 About Me
+
+Hi there! I'm **Shubham Parikh**. I am a Computer Engineer who understands both technology and business operations. Instead of focusing only on code, I focus on how systems, data, and processes work together to improve business performance.
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamparikh/)
